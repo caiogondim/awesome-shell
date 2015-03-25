@@ -47,7 +47,7 @@ A curated list of awesome command-line frameworks, toolkits, guides and gizmos. 
 * [zsh-prompt-powerline](https://github.com/Valodim/zsh-prompt-powerline) - A ZSH prompt based on the powerline font from the popular vim plugin
 * [zsh-syntax-highlighting](https://github.com/zsh-users/zsh-syntax-highlighting) - Fish shell like syntax highlighting for zsh
 * [zsh-history-substring-search](https://github.com/zsh-users/zsh-history-substring-search) - An implementation of the Fish shell's history search feature for zsh.
-
+# [bullet-train](https://github.com/caiogondim/bullet-train-oh-my-zsh-theme) - A highly customizable Powerline-like theme for ZSH
 ## Package Management and Frameworks
 
 *Tools for managing multiple shell configurations.*
